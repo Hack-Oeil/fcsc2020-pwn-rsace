@@ -9,8 +9,8 @@
 ░       ▒ ▒ ░░    ░░   ░  ░  ░░ ░  ░   ▒    ░ ░  ░    ░   ░  ░  ░  
 Bienvenue sur le serveur SSH de Cyrhades
 
-Utilisez netcat pour accéder au challenge sur le serveur rsace.cyrhades.com!
+Utilisez netcat pour accéder au challenge sur le serveur rsace.cyrhades.fr!
 
-*****:~$ nc rsace.cyrhades.com:4000
+*****:~$ nc rsace.cyrhades.fr:4000
 
 Bonne chance !
