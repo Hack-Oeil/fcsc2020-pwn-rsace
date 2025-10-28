@@ -13,7 +13,7 @@ Note : Cette épreuve avait été proposée lors de la finale du FCSC 2020.
 
 ---
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [RsaCE](https://hackropole.fr/fr/challenges/pwn/fcsc2020-pwn-rsace/)
 
